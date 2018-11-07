@@ -86,17 +86,10 @@
       <textMaps />
     </LinkMapSettings>
   </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="paulcharles" />
-  </component>
   <component name="RTProjectComponent">
     <option name="nodeInterpreter" value="" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
-  </component>
-  <component name="VagrantProjectSettings">
-    <option name="instanceFolder" value="" />
-    <option name="provider" value="" />
   </component>
 </project>
